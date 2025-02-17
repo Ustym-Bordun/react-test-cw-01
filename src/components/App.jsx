@@ -5,7 +5,7 @@ import Product from "./Product";
 import Mailbox from "./mail-component/Mail";
 // import { Mailbox } from "./mail-component/Mail";
 
-import BookList from "./Books-list-component/Books-list";
+import BookList from "./book-list-component/Book-list";
 
 // ? Якщо об'єкти масиву не мають унікальних значень властивостей
 // ? і колекція не редагується, можна використовувати індекси масиву.
